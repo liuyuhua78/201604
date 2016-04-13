@@ -11,8 +11,8 @@
 # REQUIREMENTS: ---
 #         BUGS: ---
 #        NOTES: 
-#       AUTHOR: liuyuhua@jd.com
-#      COMPANY: jd.com
+#       AUTHOR: 
+#      COMPANY: 
 #      VERSION: 1.0
 #      CREATED: 20160413
 #    SRC_TABLE: 
